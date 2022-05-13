@@ -50,7 +50,7 @@ func TestMainForRangeModels(t *testing.T) {
 func TestVarDeclInGenerateRating(t *testing.T) {
 
 	if !checkVarDeclWithinFor("vehResult", "feedbackResult") {
-		t.Error("Variable `vehresult` of type `feedbackResult` is not declared")
+		t.Error("Variable `vehResult` of type `feedbackResult` is not declared")
 	}
 
 	if !checkVarDeclWithinFor("vehRating", "rating") {
