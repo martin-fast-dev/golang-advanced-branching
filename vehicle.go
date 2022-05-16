@@ -72,7 +72,7 @@ func init() {
 		car{"A5", "Audi", "Coupe"},
 		car{"Mazda6", "Mazda", "Sedan"},
 		car{"CRV", "Honda", "SUV"},
-		car{"Camry", "Toyota", "Sedan"},
+		car{"Camry", "Toyoda", "Sedan"},
 		truck{"F-150", "Ford", "Truck"},
 		truck{"RAM1500", "Dodge", "Truck"}}
 
