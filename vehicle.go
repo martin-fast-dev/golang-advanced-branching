@@ -74,7 +74,7 @@ func init() {
 		car{"CRV", "Honda", "SUV"},
 		car{"Camry", "Toyota", "Sedan"},
 		truck{"F-150", "Ford", "Truck"},
-		truck{"RAM1500", "Dodge", "Truck"}}
+		truck{"RAM1500", "Doge", "Truck"}}
 
 	vehicleResult = make(map[string]feedbackResult)
 
